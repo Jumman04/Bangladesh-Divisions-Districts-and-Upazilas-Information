@@ -18,15 +18,144 @@
         {
           "name": "Barisal",
           "upazilas": [
-            "Babuganj",
-            "Bakerganj",
-            "Banaripara",
-            "Barishal-S",
-            "Gouranadi",
-            "Hizla",
-            "Mehendiganj",
-            "Muladi",
-            "Uzirpur"
+            {
+              "name": "Barisal Sadar",
+              "unions": [
+                "Raipasha-Karapur",
+                "Kashipur",
+                "Charbaria",
+                "Shayestabad",
+                "Charmonai",
+                "Jaguar",
+                "Charkaua",
+                "Chadpura",
+                "Tungibaria",
+                "Chandramohan"
+              ]
+            },
+            {
+              "name": "Gournadi",
+              "unions": [
+                "Khanjapur",
+                "Barthi",
+                "Chadashi",
+                "Nalchira",
+                "The Women",
+                "Batajor",
+                "Sarikal"
+              ]
+            },
+            {
+              "name": "Muladi",
+              "unions": [
+                "Batamara",
+                "Nazirpur",
+                "Chirtpur",
+                "Gakua",
+                "Charakalekha",
+                "Muladi",
+                "Worker"
+              ]
+            },
+            {
+              "name": "Mehendiganj",
+              "unions": [
+                "Andarmanik",
+                "Lata",
+                "Char Ekkaria",
+                "North Ulania",
+                "South Ulania",
+                "Mehendiganj",
+                "Vidyanandpur",
+                "Bhashanchar",
+                "Chargopalpur",
+                "Jangalia",
+                "Alimabad",
+                "Chanpur",
+                "Darirchar-Khajuria",
+                "Gobindpur",
+                "Sripur",
+                "Joynagar"
+              ]
+            },
+            {
+              "name": "Babuganj",
+              "unions": [
+                "Agarpur",
+                "Kedarpur",
+                "Body Motion",
+                "Chandpasha",
+                "Rahmatpur",
+                "Madhavpasha"
+              ]
+            },
+            {
+              "name": "Hizla",
+              "unions": [
+                "Bardalia",
+                "Guabaria",
+                "Dhulkhola",
+                "Hizla-Gourabdi",
+                "Memania",
+                "Harinathpur"
+              ]
+            },
+            {
+              "name": "Uzirpur",
+              "unions": [
+                "Satla",
+                "Harita",
+                "Jalla",
+                "Otra",
+                "Sholak",
+                "Borakota",
+                "Bamrail",
+                "Shikarpur-Uzirpur",
+                "Guthia"
+              ]
+            },
+            {
+              "name": "Bakerganj",
+              "unions": [
+                "Limit",
+                "Fodder",
+                "Darial",
+                "Milky",
+                "Durga Pasha",
+                "Faridpur",
+                "The Poet",
+                "Nalua",
+                "Pitcher",
+                "Garuria",
+                "Bharpasa",
+                "Rangashri",
+                "Padrishibpur",
+                "The Destiny"
+              ]
+            },
+            {
+              "name": "Agailjhara",
+              "unions": [
+                "Rajihar",
+                "Bakal",
+                "Trouble",
+                "Goila",
+                "Ratnapur"
+              ]
+            },
+            {
+              "name": "Banaripara",
+              "unions": [
+                "Bisharkandi",
+                "Iluhar",
+                "Syed Kathi",
+                "Of Taste",
+                "Saliabakpur",
+                "Baishari",
+                "Banaripara",
+                "Emerging"
+              ]
+            }
           ]
         },
         {
